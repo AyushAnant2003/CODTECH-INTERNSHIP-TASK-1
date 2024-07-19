@@ -6,6 +6,7 @@
 **Mentor:** Neela Santhosh Kumar
 
 **Overview of the project**
+
 **Project: Simple Calculator**
 **Description**
 A simple calculator application built using Tkinter, a Python library for creating graphical user interfaces.
