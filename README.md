@@ -1,8 +1,13 @@
 **Name:** Ayush
+
 **Company:** CODTECH IT SOLUTIONS
+
 **ID:** CT12DS1858
+
 **Domain:** Python Developer
+
 **Duration:** July 15th to September 15th 
+
 **Mentor:** Neela Santhosh Kumar
 
 **Overview of the project**
